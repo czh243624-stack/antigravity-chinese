@@ -1,5 +1,7 @@
 # Google Antigravity 中文本地化工具
 
+> 给 AI 助手的一句话安装指令与 Windows 安装检查清单：[INSTALL_AI_ZH.md](INSTALL_AI_ZH.md)。本仓库是 [yiheng8023/antigravity-chinese](https://github.com/yiheng8023/antigravity-chinese) 的 Fork，保留原作者及 MIT 许可。
+
 <p align="center">
   <a href="https://github.com/yiheng8023/antigravity-chinese/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/yiheng8023/antigravity-chinese/ci.yml?branch=main&amp;label=CI&amp;logo=github" alt="CI 状态"></a>
   <a href="https://github.com/yiheng8023/antigravity-chinese/releases/latest"><img src="https://img.shields.io/github/v/release/yiheng8023/antigravity-chinese?color=blue&amp;label=Release" alt="最新发行版"></a>
